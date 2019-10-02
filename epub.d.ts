@@ -64,3 +64,5 @@ declare module "epub" {
 	
 	export = EPub;
 }
+
+
